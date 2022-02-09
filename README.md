@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kushagra-Rai-Nova
-- 👀 I’m interested in Learning Game development.
+- 👀 I’m interested in Learning Game development and web development also.
 - 🌱 I’m currently learning front-end-development and CPP with Data Stracture.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on linkedin https://www.linkedin.com/in/kushagra-rai-551397204/
